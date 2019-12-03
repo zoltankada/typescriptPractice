@@ -44,10 +44,10 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\zoltan.kada\Documents\ZoltanKada_Docs\typescriptPractice\dist" />
+      <recent name="C:\Users\zoltan.kada\Documents\ZoltanKada_Docs\typescriptPractice" />
       <recent name="C:\Users\zoltan.kada\Documents\ZoltanKada_Docs\typescriptPractice\src\state" />
       <recent name="C:\Users\zoltan.kada\Documents\ZoltanKada_Docs\typescriptPractice\src\util" />
       <recent name="C:\Users\zoltan.kada\Documents\ZoltanKada_Docs\typescriptPractice\src\models" />
-      <recent name="C:\Users\zoltan.kada\Documents\ZoltanKada_Docs\typescriptPractice\src\decorators" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -75,7 +75,7 @@
       <workItem from="1574949646806" duration="1714000" />
       <workItem from="1575012657909" duration="16715000" />
       <workItem from="1575279893278" duration="15786000" />
-      <workItem from="1575358965703" duration="10385000" />
+      <workItem from="1575358965703" duration="10486000" />
     </task>
     <servers />
   </component>
